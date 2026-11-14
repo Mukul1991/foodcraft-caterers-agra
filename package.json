@@ -1,0 +1,10 @@
+{
+  "name": "foodcraft-caterers",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npx serve . -l 4173",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}
