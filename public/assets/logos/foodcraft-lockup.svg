@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" role="img" aria-labelledby="title desc">
+  <title id="title">Foodcraft Caterers</title><desc id="desc">Luxury catering based in Agra, serving Pan India</desc>
+  <g fill="none" stroke="#C58A4A" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="330" cy="105" rx="62" ry="84"/><path d="M330 189v70c0 28-28 31-28 62v22M330 189v70c0 28 28 31 28 62v22"/>
+    <path d="M407 24h104l36 163c5 25-7 48-31 61l-18 10v85M407 24l-43 165c-6 25 6 48 30 60l20 10v84"/>
+    <path d="M584 25v121M626 25v121M668 25v121M710 25v121M584 25v138c0 31 14 50 41 67l5 4v109M710 25v138c0 31-14 50-41 67l-5 4v109"/>
+  </g>
+  <g text-anchor="middle"><text x="450" y="252" fill="#FFF9F0" font-family="Georgia,serif" font-size="112" font-weight="700" letter-spacing="-5">food</text><text x="515" y="344" fill="#FFF9F0" font-family="Georgia,serif" font-size="112" font-weight="700" letter-spacing="-5">craft</text><line x1="180" y1="374" x2="300" y2="374" stroke="#C58A4A" stroke-width="6"/><text x="450" y="388" fill="#C58A4A" font-family="Arial,sans-serif" font-size="34" font-weight="700" letter-spacing="18">CATERERS</text><line x1="600" y1="374" x2="720" y2="374" stroke="#C58A4A" stroke-width="6"/><text x="450" y="417" fill="#FFF9F0" font-family="Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="7">LUXURY CATERING BASED IN AGRA · SERVING PAN INDIA</text></g>
+</svg>
