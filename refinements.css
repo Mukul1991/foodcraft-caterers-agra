@@ -72,3 +72,8 @@ html,body{max-width:100%;overflow-x:hidden}.brand{width:148px!important}.brand i
 .seo-service-area>p:not(.kicker){max-width:1040px;margin:12px 0;font-size:14px;line-height:1.85}
 .seo-service-area a{color:#d4a56d;border-bottom:1px solid rgba(212,165,109,.55)}
 @media(max-width:560px){.seo-service-area{padding:48px 24px 88px}.seo-service-area h2{font-size:36px}}
+
+/* Varied real-photo journey */
+.visual-journal-link{background:#eee2d4;text-align:center}
+.visual-journal-link h2{max-width:900px;margin:.25em auto;font-size:clamp(48px,6vw,82px)}
+.visual-journal-link .line-link{margin-top:28px}
