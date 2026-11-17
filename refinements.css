@@ -54,3 +54,14 @@ html,body{max-width:100%;overflow-x:hidden}.brand{width:148px!important}.brand i
   .hero h1{font-size:clamp(40px,11.8vw,54px)!important;line-height:.92!important}
   .event-ticker-track{font-size:10.5px!important;padding:10px 0!important}
 }
+
+/* Homepage contact and Instagram Reel */
+.contact-reel{grid-template-columns:minmax(0,.92fr) minmax(320px,.72fr);gap:7vw;align-items:center}
+.contact-reel .contact-details{max-width:720px}
+.contact-reel .contact-links{margin-top:42px;justify-content:flex-start}
+.instagram-reel{width:100%;max-width:500px;justify-self:end}
+.instagram-reel .kicker{margin:0 0 18px}
+.instagram-reel iframe{display:block;width:100%;height:690px;border:1px solid rgba(212,165,109,.45);border-radius:20px;background:#fff;box-shadow:0 28px 65px rgba(0,0,0,.35)}
+.instagram-reel>a{display:inline-block;margin-top:15px;color:#d4a56d;border-bottom:1px solid rgba(212,165,109,.7);font-size:10px;font-weight:700;letter-spacing:.15em;text-transform:uppercase}
+@media(max-width:900px){.contact-reel{grid-template-columns:1fr;gap:64px}.instagram-reel{justify-self:start;max-width:520px}}
+@media(max-width:560px){.contact-reel{padding-bottom:95px!important}.contact-reel .contact-links{margin-top:30px}.instagram-reel iframe{height:620px;border-radius:14px}}
